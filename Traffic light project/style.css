@@ -1,0 +1,46 @@
+
+.a-right {
+    border: 1px solid black;
+    min-height: 40vh;
+    border-radius: 30px;
+    gap: 20px;
+    width: 20%;
+    background-color: #1f1d41;
+}
+
+.a-left {
+    gap: 10px;
+}
+
+.main {
+    gap: 20px;
+}
+
+.b-box {
+    border: 1px solid;
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+    background-color: #4b5069;
+}
+
+.bot {
+    border-radius: 5px;
+    padding: 5px;
+    font-family: "Roboto";
+    background-color: #1f1d41;
+    color: white;
+}
+
+.h1 {
+    font-family: "Roboto";
+    font-weight: 30px;
+    text-align: center;
+}
+
+.container {
+    background-color: #86d2f2;
+    width: 400px;
+    height: 500px;
+  
+}
